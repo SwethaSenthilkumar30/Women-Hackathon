@@ -8,8 +8,6 @@ This project is a Smart Parking System designed to streamline the parking proces
 *🧠 Admin Dashboard – Monitors usage, generates reports, and manages the system.
 *📸 ANPR (License Plate Recognition) – Optional module for automated entry/exit tracking.
 🎯 Goals
-Minimize time spent searching for parking
-
-Reduce traffic congestion and fuel consumption
-
-Provide a digital, seamless parking experience
+*Minimize time spent searching for parking
+*Reduce traffic congestion and fuel consumption
+*Provide a digital, seamless parking experience
